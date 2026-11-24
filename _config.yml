@@ -7,11 +7,11 @@
 
 
 # Site Settings
-title                    : Your Name
-name                     : Your Name
+title                    : Yuna Jeong
+name                     : Yuna Jeong
 # One line about you. It appears under your name on the home page, and it is
 # what search engines and messaging apps show when someone shares your link.
-description              : "Mechanical engineering student at Cornell. [What you like working on.]"
+description              : "Mechanical engineering student at Cornell."
 
 # Theme and Style
 theme: jekyll-theme-minimal
